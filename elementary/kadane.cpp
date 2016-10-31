@@ -1,3 +1,4 @@
+//Kadane Algorithm
 #include <iostream>
 using namespace std;
 int kdn(int given[], int n) 
